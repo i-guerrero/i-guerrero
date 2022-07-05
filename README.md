@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **isaacguerrero@pursuit.org**
 
-- ⚡ Fun fact **Love NBA, biking**
+- ⚡ Fun fact **Love NBA, biking, 2x 1st place MIT Environmental Sustainability Project Winner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
