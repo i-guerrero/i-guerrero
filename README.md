@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-guerrero" alt="i-guerrero" /></a> </p>
 
-- 🔭 I’m currently working on **Sandbox project**
+- 🔭 I’m currently working on **Dev Impact** - a platform to connect early career coders with nonprofits in need of tech help
 
-- 🌱 I’m currently learning **React, Express, PostgreSQL**
+- 🌱 I’m currently learning **Microservices with Node.js**
 
 - 👯 I’m looking to collaborate on **climate change projects**
 
-- 💬 Ask me about **DevOps, AWS, Web 3, crypto**
+- 💬 Ask me about **DevOps, AWS, Node.js, SAP, Tech Consulting**
 
 - 📫 How to reach me **isaacguerrero@pursuit.org**
 
