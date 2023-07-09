@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-guerrero" alt="i-guerrero" /></a> </p>
 
+- 🖥️ Current role: **Application Development Associate** and **Data Analyst** at **Accenture**
+
+- 📱 Technologies used: Python, Excel, SAP
+  
 - 🔭 I’m currently working on **Dev Impact** - a platform to connect early career coders with nonprofits in need of tech help
 
 - 🌱 I’m currently learning **Microservices with Node.js**
